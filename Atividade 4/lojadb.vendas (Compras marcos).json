@@ -1,0 +1,25 @@
+[{
+  "Compras": [
+    {
+      "Nome do produto": "Caderno",
+      "Preco": 20.01,
+      "Quantidade:": {
+        "$numberDecimal": "1"
+      }
+    },
+    {
+      "Nome do produto": "Caneta",
+      "Preco": 3,
+      "Quantidade:": {
+        "$numberDecimal": "1"
+      }
+    },
+    {
+      "Nome do produto": "Borracha",
+      "Preco": 2,
+      "Quantidade:": {
+        "$numberDecimal": "2"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "652ecb70289885ead40e67b5"
+  },
+  "nome": "Maria",
+  "Cliente VIP (1 – sim / 0 – Não)": "1",
+  "Email": "maria@email.com",
+  "telefone": [
+    "9999-3333",
+    "8888-3333",
+    "9988-3000"
+  ],
+  "Endereco": {
+    "rua": "Rua Três",
+    "estado": "PR",
+    "numero": "3000",
+    "cidade": "Londrina"
+  },
+  "Compras": [
+    {
+      "Nome do produto": "Tablet",
+      "Preco": 2500,
+      "Quantidade": {
+        "$numberDecimal": "1"
+      }
+    },
+    {
+      "Nome do produto": "Capa para tablet",
+      "Preco": 50,
+      "Quantidade:": {
+        "$numberDecimal": "1"
+      }
+    }
+  ]
+}]
